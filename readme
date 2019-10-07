@@ -1,1 +1,17 @@
-Turn in for assign6.
+Sentiment Analysis Application
+October 2019
+
+Created by: 
+Jeff Wilson
+Tyler Perkins
+
+This Application handles large serialized databases and classifies each items tone depending on the words used. 
+
+With the use of a sentiment analyzing AI being fed each review, the files are classified and displayed to a table formatted GUI.
+
+JAVADOC implemented as part of the design process and has been previously generated. 
+
+This program was coordinated with another team member and the use of design patterns during the planning phase was very prevalent.
+
+To contact the creator with any questions:
+Jeff Wilson : jaw291@txstate.edu
